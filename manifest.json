@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "SHEKRI.AI أداة ذكاء اصطناعي تحوّل أي كتاب PDF إلى اختبار تفاعلي جاهز خلال دقائق، مع نظام صفوف دراسية للمعلمين ومتابعة نتائج الطلاب.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SHEKRI.AI",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SHEKRI",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/"
+}
